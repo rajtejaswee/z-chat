@@ -41,9 +41,8 @@ Whether it's casual conversation or team collaboration, Z Chat keeps you connect
 
 | Login Page | SignUp Page | Chat Room | User Profile | 
 |:----------:|:-----------:|:---------:|:------------:|
-| ![Login Screenshot](./Photos/login.png) ![SignUp Screenshot](./Photos/signup) | ![Chat Screenshot](./Photos/chats) | ![Profile Screenshot](./Photos/profile) | 
+| ![Login Screenshot](./Photos/login.png) | ![SignUp Screenshot](./Photos/signup.png) | ![Chat Screenshot](./Photos/chats.png) | ![Profile Screenshot](./Photos/profile.png) | 
 
-> **Note:** Make sure your screenshots are saved inside a `screenshots/` folder in your repository.
 
 ---
 
@@ -51,7 +50,6 @@ Whether it's casual conversation or team collaboration, Z Chat keeps you connect
 
 - 🔥 Real-time chat functionality using WebSockets
 - 🔒 Secure authentication with password hashing (bcrypt.js)
-- 🧠 Responsive and mobile-friendly design
 - 🖼️ Upload and manage profile pictures via Cloudinary
 - 📢 Instant message broadcast to connected users
 - 🛡️ Data validation and error handling
