@@ -39,9 +39,9 @@ Whether it's casual conversation or team collaboration, Z Chat keeps you connect
 
 ## 📸 Screenshots
 
-| Home Page | Chat Room | User Profile | Mobile View |
-|:---------:|:---------:|:------------:|:-----------:|
-| ![Login Screenshot](./screenshots/home.png) ![SignUp Screenshot](./screenshots/mobile.png) | ![Chat Screenshot](./screenshots/chat.png) | ![Profile Screenshot](./screenshots/profile.png) | 
+| Login Page | SignUp Page | Chat Room | User Profile | 
+|:----------:|:-----------:|:---------:|:------------:|
+| ![Login Screenshot](./Photos/login.png) ![SignUp Screenshot](./Photos/signup) | ![Chat Screenshot](./Photos/chats) | ![Profile Screenshot](./Photos/profile) | 
 
 > **Note:** Make sure your screenshots are saved inside a `screenshots/` folder in your repository.
 
